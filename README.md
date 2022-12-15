@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammed from Bordeaux, France my work is to extract, transform and load the data
+- 👋 Hello, I’m Mohammed from Bordeaux, France my work is to extract, transform and load the data
 - 👀 I am interested in integrating and visualizing data using Talend, SSIS, SSRS, Power BI, PLSQL, Access.
 - 🌱 I’m currently working on different financials projects to automate the work of the business teams
 - 💞️ I’m looking to collaborate with companies as freelance to help teams with data
